@@ -9,8 +9,6 @@
 </p>
 <h1 align="center">Hi 👋, I'm Nguyen Dinh Lam</h1>
 <h3 align="center">I am an embedded systems and IoT engineer.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lam-Embedded&label=Profile%20views&color=0e75b6&style=flat" alt="Lam-Embedded" /> </p>
-
 
 ### 🧰 Languages and Tools:
 <p align="left">
