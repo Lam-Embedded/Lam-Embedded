@@ -54,3 +54,5 @@
   </table>
 </p>
 <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lam-Embedded&theme=zenburn" /></p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lam-Embedded&theme=tokyo-night)
