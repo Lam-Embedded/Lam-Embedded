@@ -12,7 +12,7 @@
 
 ### 🧰 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,opencv,vscode,ros,arduino,postman,github,git,linux,ubuntu,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,opencv,qt,vscode,ros,arduino,postman,github,git,linux,ubuntu,raspberrypi" />
 </p>
 
 ### 🧠 Technical Skills
