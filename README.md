@@ -15,6 +15,9 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,opencv,qt,vscode,ros,arduino,postman,github,git,linux,ubuntu,raspberrypi" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Lam-Embedded&label=Profile%20Views&color=blue)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Lam-Embedded)
+
 ### 🧠 Technical Skills
 
 - ⚙️ **Microcontroller Programming**:  
