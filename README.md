@@ -8,7 +8,7 @@
 🟥 🟦 🟦 🟦 🟦 🟦 🟥
 </p>
 <h1 align="center">Hi 👋, I'm Nguyen Dinh Lam</h1>
-<h3 align="center">I am an embedded systems and IoT engineer.</h3>
+<h3 align="center">I am an embedded systems, robotic and IoT engineer.</h3>
 
 ### 🧰 Languages and Tools:
 <p align="left">
